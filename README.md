@@ -4,6 +4,7 @@
 
 redmine webhook安装：https://github.com/suer/redmine_webhook
 
+安装几个用的的库 pip install -r requirements.txt
 
 需要修改几个参数，corpid，corpsecret，是从钉钉企业管理员那里可以得到，agentid是自建应用id
 
